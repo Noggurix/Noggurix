@@ -8,8 +8,6 @@ My name is João Gabriel. I'm a brazilian student.
 
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,Cs)](https://skillicons.dev)
 
---> 
-
 ### ~> **Programs:**
 **Construct 3, Unity, Android Studio.**
 
