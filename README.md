@@ -3,12 +3,12 @@ My name is João Gabriel. I'm a brazilian student.
 
 
 
-## ꠵- **𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨:**
+## 📝 ꠵- **𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨:**
 **JS, Kotlin, HTML, CSS, C#.**
 
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,cs)](https://skillicons.dev)
 
-### ~> **𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘴:**
+### 💻 > **𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘴:**
 **Construct 3, Unity, Android Studio, Figma.**
 
 [![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,figma)](https://skillicons.dev)
