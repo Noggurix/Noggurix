@@ -2,11 +2,12 @@
 My name is João Gabriel. I'm a brazilian student.
 
 --> 
+
 ### ꠵- **Learning...:**
-JS, Kotlin, HTML, CSS, C#.
+**JS, Kotlin, HTML, CSS, C#.**
 
 #### ~> **Programs:**
-Construct 3, Unity, Android Studio.
+**Construct 3, Unity, Android Studio.**
 
 ### 🎵 ꠵- **𝙻𝚊𝚜𝚝 𝚖𝚞𝚜𝚒𝚌 𝚙𝚕𝚊𝚢𝚎𝚍!**
 
