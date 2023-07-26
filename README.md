@@ -9,9 +9,9 @@ My name is João Gabriel. I'm a brazilian student.
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,cs)](https://skillicons.dev)
 
 ### ~> **Programs:**
-**Construct 3, Unity, Android Studio.**
+**Construct 3, Unity, Android Studio, Figma.**
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,figma)](https://skillicons.dev)
 
 
 
