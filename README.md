@@ -11,7 +11,7 @@ My name is João Gabriel. I'm a brazilian student.
 ### ~> **Programs:**
 **Construct 3, Unity, Android Studio, Figma.**
 
-[![My Skills](https://skillicons.dev/icons?i=,unity,androidstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,figma)](https://skillicons.dev)
 
 
 
