@@ -1,4 +1,4 @@
-### About me
+# About me
 
 <!--
 **Noggurix/Noggurix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
