@@ -6,7 +6,7 @@ My name is João Gabriel. I'm a brazilian student.
 ## ꠵- **Learning:**
 **JS, Kotlin, HTML, CSS, C#.**
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,Cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,cs)](https://skillicons.dev)
 
 ### ~> **Programs:**
 **Construct 3, Unity, Android Studio.**
