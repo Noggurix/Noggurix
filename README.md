@@ -3,7 +3,7 @@ My name is João Gabriel. I'm a brazilian student.
 
 --> 
 
-### ꠵- **Learning...:**
+### ꠵- **Learning:**
 **JS, Kotlin, HTML, CSS, C#.**
 
 #### ~> **Programs:**
