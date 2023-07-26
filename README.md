@@ -1,7 +1,7 @@
 # About ~ 💮
 My name is João Gabriel. I'm a brazilian student.
 
---> 
+
 
 ## ꠵- **Learning:**
 **JS, Kotlin, HTML, CSS, C#.**
