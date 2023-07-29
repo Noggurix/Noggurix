@@ -13,9 +13,6 @@
 
 ## <p align="center">💡 Knowledges</p>
 
-
- #### <p align="center">💻 Coding in</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown" />
@@ -27,7 +24,7 @@
 
 <br>
 
- #### <p align="center"> 🛠  Tools</p>
+ ## <p align="center"> 🛠  Tools</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
