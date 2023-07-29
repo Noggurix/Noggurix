@@ -3,6 +3,7 @@
 
 *<p align="center">My name is João Gabriel. I'm a brazilian student.</p>*
 
+![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
 
 <hr>
 
@@ -10,16 +11,31 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical)
 
 
-## 📝 ꠵ - **𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨:**
-**JS, Kotlin, HTML, CSS, C#.**
+## <p align="center">💡 Knowledges</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,html,css,cs)](https://skillicons.dev)
 
-#### 💻 > **𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘴:**
-**Construct 3, Unity, Android Studio, Figma.**
+ #### <p align="center">💻 Coding in</p>
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,figma)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown" />
+  </a>
+</p>
 
+
+**<p align="center">JS, Kotlin, HTML, CSS, C#, Markdown</p>**
+
+<br>
+
+ #### <p align="center"> 🛠  Tools</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma" />...
+  </a>
+</p>
+
+**<p align="center">Unity, Android Studio, Figma, Construct 3</p>**
 
 <hr>
 
