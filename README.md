@@ -23,7 +23,7 @@
 </p>
 
 
-**<p align="center">JS, Kotlin, HTML, CSS, C#, Markdown</p>**
+**<p align="center">JS, Kotlin, HTML, CSS, C#, Markdown.</p>**
 
 <br>
 
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-**<p align="center">Unity, Android Studio, Figma, Construct 3</p>**
+**<p align="center">Unity, Android Studio, Figma, Construct 3.</p>**
 
 <hr>
 
