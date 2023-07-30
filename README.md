@@ -10,8 +10,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical" />
-</a>
-<a href="https://git.io/streak-stats">
+</a><a href="https://git.io/streak-stats">
 <img height=180 align="center" src="https://streak-stats.demolab.com?user=Noggurix&theme=radical"/>
 </a>
   
