@@ -9,7 +9,7 @@
 
 *<p align="center">My name is João Gabriel. I'm a brazilian student.</p>*
 
-![](https://komarev.com/ghpvc/?username=Noggurix&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
 
 
   
