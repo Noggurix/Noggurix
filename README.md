@@ -3,24 +3,31 @@
 
 *<p align="center">My name is João Gabriel. I'm a brazilian student.</p>*
 
-![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
-  
-<details><summary>Stats</summary>
+![](https://komarev.com/ghpvc/?username=Noggurix&color=ff69b4)
 
+
+  
+<details><summary>📝 | 𝘚𝘵𝘢𝘵𝘴</summary>
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical" />
 </a><a href="https://git.io/streak-stats">
 <img height=180 align="center" src="https://streak-stats.demolab.com?user=Noggurix&theme=radical"/>
 </a>
+
+<hr>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20studying...)](https://discord.com/users/688862058535583768)
   
 </details>
 
 
-<hr>
 
 
 ## <p align="center">💡 𝒦𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒𝑠</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,11 +44,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma" />
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
   </a>
 </p>
 
 **<p align="center">𝘜𝘯𝘪𝘵𝘺, 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘍𝘪𝘨𝘮𝘢, 𝘊𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵 3.</p>**
+
+<p align="center">
+  
+<img src = "https://giffiles.alphacoders.com/187/187947.gif">
+
+</p>
 
 <hr>
 
@@ -59,7 +72,7 @@
 
 <p align="center"> 
   
-<img src = "https://cutewallpaper.org/26/berserk-gif-wallpaper/berserk-manga-gif-resident-evil-customs-thread-page-177.gif">
+<img src = "https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-vs-itachi-0.gif">
 
 </p>
 
