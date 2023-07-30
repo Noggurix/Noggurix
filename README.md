@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical)
 
 
-## <p align="center">💡 Knowledges</p>
+## <p align="center">💡 𝒦𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒𝑠</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,11 +20,11 @@
 </p>
 
 
-**<p align="center">JS, Kotlin, HTML, CSS, C#, Markdown.</p>**
+**<p align="center">𝘑𝘚, 𝘒𝘰𝘵𝘭𝘪𝘯, 𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚, 𝘊#, 𝘔𝘢𝘳𝘬𝘥𝘰𝘸𝘯.</p>**
 
 <br>
 
- ## <p align="center"> 🛠  Tools</p>
+ ## <p align="center"> 🛠  𝒯𝑜𝑜𝑙𝑠</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-**<p align="center">Unity, Android Studio, Figma, Construct 3.</p>**
+**<p align="center">𝘜𝘯𝘪𝘵𝘺, 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘍𝘪𝘨𝘮𝘢, 𝘊𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵 3.</p>**
 
 <hr>
 
