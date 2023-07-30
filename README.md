@@ -1,4 +1,10 @@
-*<h1 align="center">𝙰𝚋𝚘𝚞𝚝 💮</h1>*
+<p align="center">
+<img src ="https://pt.bloggif.com/tmp/a51f15364a198dd4a40e86d0a7d54e4f/text.gif?1690696013">
+</p>
+
+<br>
+
+*<h1 align="center">𝙰𝚋𝚘𝚞𝚝 ~💮</h1>*
 
 
 *<p align="center">My name is João Gabriel. I'm a brazilian student.</p>*
