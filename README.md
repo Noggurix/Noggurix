@@ -84,5 +84,3 @@
 <img src = "https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-vs-itachi-0.gif">
 
 </p>
-
-
