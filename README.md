@@ -65,13 +65,15 @@
 
 </p>
 
-<hr>
+
+## <p align="center"> 🎶 - 𝙽𝚘𝚠 𝚙𝚕𝚊𝚢𝚒𝚗𝚐</p>
 
 
-### *🎶 - 𝙽𝚘𝚠 𝚙𝚕𝚊𝚢𝚒𝚗𝚐*
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
+</a>
+</p>
 
 <hr>
 
