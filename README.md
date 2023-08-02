@@ -62,7 +62,6 @@
 
 <p align="center">
   
-<img src = "https://giffiles.alphacoders.com/187/187947.gif">
 
 </p>
 
