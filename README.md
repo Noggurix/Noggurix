@@ -11,20 +11,26 @@
 
 <br>
 
+<p align="center">
+<a href="https://discord.com/users/688862058535583768">
+<img height=140 src="https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20studying..."/>
+</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=140 src="https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical" />
 </a>
+</p>
 
+<p align="center">
 <a href="https://git.io/streak-stats">
 <img height=140 src="https://streak-stats.demolab.com?user=Noggurix&theme=radical"/>
 </a>
-
+</p>
 
 <br>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20studying...)](https://discord.com/users/688862058535583768)
-  
 </details>
 
 
