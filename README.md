@@ -46,7 +46,7 @@
 </p>
 
 
-**<p align="center">𝘑𝘚, 𝘒𝘰𝘵𝘭𝘪𝘯, 𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚, 𝘊#, 𝘔𝘢𝘳𝘬𝘥𝘰𝘸𝘯.</p>**
+**<p align="center">𝘑𝘚, 𝘒𝘰𝘵𝘭𝘪𝘯, 𝘏𝘛𝘔𝘓/𝘊𝘚𝘚, 𝘊#, 𝘔𝘢𝘳𝘬𝘥𝘰𝘸𝘯.</p>**
 
 <br>
 
@@ -54,11 +54,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma,vscode&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
   </a>
 </p>
 
-**<p align="center">𝘜𝘯𝘪𝘵𝘺, 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘍𝘪𝘨𝘮𝘢, 𝘊𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵 3.</p>**
+**<p align="center">𝘜𝘯𝘪𝘵𝘺, 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘍𝘪𝘨𝘮𝘢, VSCode, 𝘊𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵 3.</p>**
 
 <p align="center">
   
