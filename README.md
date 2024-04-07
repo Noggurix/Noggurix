@@ -1,13 +1,13 @@
-*<h1 align="center">𝙰𝚋𝚘𝚞𝚝 💮</h1>*
+*<h1 align="center">About 💮</h1>*
 
 
-*<p align="center">My name is João Gabriel. I'm a brazilian student.</p>*
+*<p align="center">My name is João Gabriel. I'm a Brazilian student.</p>*
 
 ![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
 
 
   
-<details><summary>📝 | 𝘚𝘵𝘢𝘵𝘴</summary>
+<details><summary>📝 | Stats</summary>
 
 <br>
 
@@ -36,29 +36,29 @@
 
 
 
-## <p align="center">💡 𝒦𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒𝑠</p>
+## <p align="center">💡 Knowledges</p>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown" />
+    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown,py" />
   </a>
 </p>
 
 
-**<p align="center">𝘑𝘚, 𝘒𝘰𝘵𝘭𝘪𝘯, 𝘏𝘛𝘔𝘓/𝘊𝘚𝘚, 𝘊#, 𝘔𝘢𝘳𝘬𝘥𝘰𝘸𝘯.</p>**
+**<p align="center">JS, Kotlin, HTML/CSS, C#, Markdown, Python.</p>**
 
 <br>
 
- ## <p align="center"> 🛠  𝒯𝑜𝑜𝑙𝑠</p>
+ ## <p align="center"> 🛠  Tools</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma,vscode&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma,vscode,blender,visualstudio&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
   </a>
 </p>
 
-**<p align="center">𝘜𝘯𝘪𝘵𝘺, 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘚𝘵𝘶𝘥𝘪𝘰, 𝘍𝘪𝘨𝘮𝘢, VSCode, 𝘊𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵 3.</p>**
+**<p align="center">Unity, Android Studio, Figma, VSCode, Blender, Visual Studio, Construct 3.</p>**
 
 <p align="center">
   
@@ -66,7 +66,7 @@
 </p>
 
 
-## <p align="center"> 🎶 - 𝙽𝚘𝚠 𝚙𝚕𝚊𝚢𝚒𝚗𝚐</p>
+## <p align="center"> 🎶 - Now playing</p>
 
 
 <p align="center">
