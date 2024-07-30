@@ -41,16 +41,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown,py" />
+    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown,py,sqlite" />
   </a>
 </p>
 
 
-**<p align="center">JS, Kotlin, HTML/CSS, C#, Markdown, Python.</p>**
+**<p align="center">JS, Kotlin, HTML/CSS, C#, Markdown, Python, SQLite.</p>**
 
 <br>
 
- ## <p align="center"> 🛠  Tools</p>
+ ## <p align="center">🛠 Tools</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,29 +61,15 @@
 
 **<p align="center">Unity, Android Studio, Figma, VSCode, Blender, Visual Studio, Construct 3.</p>**
 
-<p align="center">
-  
-
-</p>
-
-
-## <p align="center"> 🎶 - Now playing</p>
-
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
-</a>
-</p>
-
+<br>
 <hr>
 
 *<p align="center">“Living for the future is more important than trying to avenge the past.”</p>*
 
+
+<p align="center">
+
 <br>
-
-<p align="center"> 
   
-<img src = "https://gifs.eco.br/wp-content/uploads/2022/06/gifs-do-sasuke-vs-itachi-0.gif">
-
+<img src="https://i.pinimg.com/originals/3e/5c/57/3e5c57d83650ef8715f109c6aece35ef.gif"/>
 </p>
