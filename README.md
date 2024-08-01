@@ -1,7 +1,7 @@
-*<h1 align="center">About 💮</h1>*
+_<h1 align="center">About 💮</h1>_
 
 
-*<p align="center">My name is João Gabriel. I'm a Brazilian student.</p>*
+_<p align="center">I’m João Gabriel, a programming student with a passion for problem-solving. I’m excited to expand my coding skills and contribute with new ideas.</p>_
 
 ![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
 
@@ -33,43 +33,65 @@
 
 </details>
 
-
-
+</p>
 
 ## <p align="center">💡 Knowledges</p>
 
+### <p align="center">Back-End</p>
 
+**_<p align="center">• JS, C#, Python •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,kotlin,html,css,cs,markdown,py,sqlite" />
+    <img src="https://skillicons.dev/icons?i=js,cs,python" />
   </a>
 </p>
 
-
-**<p align="center">JS, Kotlin, HTML/CSS, C#, Markdown, Python, SQLite.</p>**
-
-<br>
-
- ## <p align="center">🛠 Tools</p>
-
-
+### <p align="center">Front-End</p>
+**_<p align="center">• HTML/CSS, ReactJS, Markdown •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,androidstudio,figma,vscode,blender,visualstudio&theme=dark" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_6fm44vvdIe4S7zSnW97xjN1Fb6lZ2--Bicpb2AJCIah2dFvU-zBIAxo73VyECwZ0y0&usqp=CAU" style=width:48px;height:48px;/>
+    <img src="https://skillicons.dev/icons?i=html,css,react,markdown" />
   </a>
 </p>
 
-**<p align="center">Unity, Android Studio, Figma, VSCode, Blender, Visual Studio, Construct 3.</p>**
+### <p align="center">DataBases</p>
+**_<p align="center">• SQLite, Firebase •</p>_**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+  </a>
+</p>
 
-<br>
+### <p align="center">Android</p>
+**_<p align="center">• Java, Kotlin, Android Studio •</p>_**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
+  </a>
+</p>
+
+### <p align="center">GameDev</p>
+**_<p align="center">• Unity2D/3D, Blender, Construct 3, RenPy •</p>_**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender" /></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" style="width:48px;height:48px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png" style="width:31px;height:48px;" />
+</p>
+
+### <p align="center">Tools</p>
+**_<p align="center">• Github, Figma, VSCode, Visual Studio, Discord, Bots, Daz3D •</p>_**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,visualstudio,discord,bots"/></a>
+    <img src="https://cdn2.steamgriddb.com/icon_thumb/3204765835133b3580b0f603a5c3b625.png" style="width:42px; height:48px;"/>
+</p>
+
 <hr>
-
-*<p align="center">“Living for the future is more important than trying to avenge the past.”</p>*
-
+<br>
 
 <p align="center">
-
-<br>
-  
 <img src="https://i.pinimg.com/originals/3e/5c/57/3e5c57d83650ef8715f109c6aece35ef.gif"/>
 </p>
+
+_<p align="center">“Living for the future is more important than trying to avenge the past”</p>_
