@@ -99,7 +99,7 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=31aed8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=52b04f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
