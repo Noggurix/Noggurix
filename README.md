@@ -25,7 +25,7 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
 
 <p align="center">
 <a href="https://discord.com/users/688862058535583768">
-<img height=160 src="https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20studying..."/>
+<img height=160 src="https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20coding..."/>
 </a>
 </p>
 
@@ -35,16 +35,19 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
 
 </p>
 
+
+
+
 ## <p align="center">💡 Knowledges</p>
 
 ### <p align="center">Back-End</p>
-
 **_<p align="center">• JS, C#, Python •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,cs,python" />
   </a>
 </p>
+
 
 ### <p align="center">Front-End</p>
 **_<p align="center">• HTML/CSS, ReactJS, Markdown •</p>_**
@@ -54,6 +57,8 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
   </a>
 </p>
 
+#
+
 ### <p align="center">DataBases</p>
 **_<p align="center">• SQLite, Firebase •</p>_**
 <p align="center">
@@ -62,6 +67,7 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
   </a>
 </p>
 
+
 ### <p align="center">Android</p>
 **_<p align="center">• Java, Kotlin, Android Studio •</p>_**
 <p align="center">
@@ -69,6 +75,8 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
     <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
   </a>
 </p>
+
+#
 
 ### <p align="center">GameDev</p>
 **_<p align="center">• Unity2D/3D, Blender, Construct 3, RenPy •</p>_**
@@ -80,14 +88,21 @@ _<p align="center">I’m João Gabriel, a programming student with a passion for
 </p>
 
 ### <p align="center">Tools</p>
-**_<p align="center">• Github, Figma, VSCode, Visual Studio, Discord, Bots, Daz3D •</p>_**
+**_<p align="center">• Github, Figma, VSCode, Visual Studio, Discord, DSBots, Daz3D •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,figma,vscode,visualstudio,discord,bots"/></a>
     <img src="https://cdn2.steamgriddb.com/icon_thumb/3204765835133b3580b0f603a5c3b625.png" style="width:42px; height:48px;"/>
 </p>
 
-<hr>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=31aed8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 <p align="center">
