@@ -1,6 +1,6 @@
 <h1 align="center">💮 About 💮</h1>
 
-_<p align="center">I’m João Gabriel, a brazilian software developer. Contact me if you want to discuss new project ideas.</p>_
+_<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p>_
 
 ![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
 
