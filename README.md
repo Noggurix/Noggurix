@@ -35,19 +35,19 @@ _<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p
 ## <p align="center">💡 Knowledges 💡</p>
 
 ### <p align="center">Back-End</p>
-**_<p align="center">• JS, C#, Python •</p>_**
+**_<p align="center">• C#, Kotlin, Python •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cs,python" />
+    <img src="https://skillicons.dev/icons?i=cs,kotlin,python" />
   </a>
 </p>
 
 
 ### <p align="center">Front-End</p>
-**_<p align="center">• HTML/CSS, ReactJS, Markdown •</p>_**
+**_<p align="center">• HTML, CSS, JS, ReactJS, ThreeJS, Markdown, •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,markdown" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,markdown" />
   </a>
 </p>
 
@@ -63,10 +63,10 @@ _<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p
 
 
 ### <p align="center">Android</p>
-**_<p align="center">• Java, Kotlin, Android Studio •</p>_**
+**_<p align="center">• Java, Android Studio •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio" />
   </a>
 </p>
 
