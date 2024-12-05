@@ -9,9 +9,7 @@ _<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats">
-<img height=140 src="https://streak-stats.demolab.com?user=Noggurix&theme=radical"/>
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noggurix&theme=radical&border_radius=2.5&card_width=350&card_height=40" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +42,7 @@ _<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p
 
 
 ### <p align="center">Front-End</p>
-**_<p align="center">• HTML, CSS, JS, ReactJS, ThreeJS, Markdown, •</p>_**
+**_<p align="center">• HTML, CSS, JS, ReactJS, ThreeJS, Markdown •</p>_**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,markdown" />
