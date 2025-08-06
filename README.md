@@ -1,104 +1,48 @@
-<h1 align="center">💮 About 💮</h1>
+<h1 align="center"> Hi!
+  <br>
+  I'm João Gabriel
+</h1>
 
-_<p align="center">Hi, I’m João Gabriel, a brazilian full stack developer.</p>_
+*_<p align="center">I’m a Full Stack Developer passionate about creating games as much as building web applications. I value clean code and high performance, and I’m always drawn to challenging, even seemingly impossible, projects that push the boundaries of technology and creativity. Skilled in JavaScript, React, Next.js, and Node.js, I focus on delivering fast and seamless user experiences.</p>_*
 
-![](https://komarev.com/ghpvc/?username=Noggurix&color=blueviolet)
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=Noggurix&abbreviated=true&style=for-the-badge&color=5a005e)
 
-<details><summary>📝 | Stats</summary>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noggurix&theme=radical&border_radius=2.5&card_width=350&card_height=40" alt="GitHub Streak" /></a>
+</div>
 
-<br>
+<h2 align="center">🧠 Knowledges</h2>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noggurix&theme=radical&border_radius=2.5&card_width=350&card_height=40" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=140 src="https://github-readme-stats.vercel.app/api?username=Noggurix&show_icons=true&theme=radical" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://discord.com/users/688862058535583768">
-<img height=160 src="https://lanyard.cnrad.dev/api/688862058535583768?showDisplayName=true&idleMessage=Probably%20coding..."/>
-</a>
-</p>
-
-<br>
-
-</details>
-
-</p>
-
-## <p align="center">💡 Knowledges 💡</p>
-
-### <p align="center">Back-End</p>
-**_<p align="center">• C#, Kotlin, Python •</p>_**
-<p align="center">
+**_<p align="center">• HTML, CSS, JavaScript, TypeScript, Node, ReactJS, ThreeJS, NextJS, C#, Kotlin, Python, SQLite, Markdown •</p>_**
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,kotlin,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,threejs,next,cs,kotlin,python,sqlite,markdown" />
   </a>
-</p>
+</div>
 
+<h2 align="center">🛠️ Tools</h2>
 
-### <p align="center">Front-End</p>
-**_<p align="center">• HTML, CSS, JS, ReactJS, ThreeJS, Markdown •</p>_**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,markdown" />
-  </a>
-</p>
-
-#
-
-### <p align="center">DataBases</p>
-**_<p align="center">• SQLite, Firebase •</p>_**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
-  </a>
-</p>
-
-
-### <p align="center">Android</p>
-**_<p align="center">• Java, Android Studio •</p>_**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio" />
-  </a>
-</p>
-
-#
-
-### <p align="center">GameDev</p>
-**_<p align="center">• Unity2D/3D, Blender, Construct 3, RenPy •</p>_**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender" /></a>
+**_<p align="center">• Github, Figma, VSCode, Visual Studio, Discord, DSBots, Android Studio, Blender, Unity(2D/3D/AR/VR), Construct 3 •</p>_**
+<div align="center">
+  <a align="center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,visualstudio,discord,bots,androidstudio,blender,unity"/></a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" style="width:48px;height:48px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren%E2%80%99Py_Logo_6-13-6_200x307px.png" style="width:31px;height:48px;" />
-</p>
-
-### <p align="center">Tools</p>
-**_<p align="center">• Github, Figma, VSCode, Visual Studio, Discord, DSBots, Daz3D •</p>_**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode,visualstudio,discord,bots"/></a>
-    <img src="https://cdn2.steamgriddb.com/icon_thumb/3204765835133b3580b0f603a5c3b625.png" style="width:42px; height:48px;"/>
-</p>
+</div>
 
 <br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=52b04f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
-</p>
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wvl4sozmrqwkti57pmklcuexv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=52b04f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<p align="center">
+<div align="center">
 <img src="https://i.pinimg.com/originals/3e/5c/57/3e5c57d83650ef8715f109c6aece35ef.gif"/>
-</p>
+</div>
 
-_<p align="center">“Living for the future is more important than trying to avenge the past”</p>_
+*_<p align="center">“Living for the future is more important than trying to avenge the past”</p>_*
