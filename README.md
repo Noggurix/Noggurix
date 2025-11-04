@@ -5,8 +5,8 @@ I'm João Gabriel a full stack developer, I thrive on crafting both immersive ga
 ## ![](https://komarev.com/ghpvc/?username=Noggurix&abbreviated=true&style=for-the-badge&color=0f0f0f) 
 
 ### 🧠 Knowledges
-**• HTML, CSS, JavaScript, TypeScript, React, Next, Tailwind, Three, Node, C#, Kotlin, Python, SQLite •**
-### <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,csharp,kotlin,python,sqlite" />
+**• HTML, CSS, Tailwind, TS, React & React Native, Next, Three, Node, Express, C#, Kotlin, Python, Rust, SQLite, PostgreSQL •**
+### <img src="https://skills.syvixor.com/api/icons?i=html,css,tailwind,ts,reactnative,nextjs,threejs,nodejs,express,csharp,kotlin,python,rust,sqlite,postgresql" />
 
 **• Github, Expo, Docker, Figma, VSCode, Visual Studio, Discord, DSBots, Android Studio, Blender, Unity(2D/3D/AR/VR) •**
 ## <img src="https://skills.syvixor.com/api/icons?i=github,expo,docker,figma,vscode,visualstudio,discord,discordbots,androidstudio,blender,unity"/>
